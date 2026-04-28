@@ -17,8 +17,8 @@ Proyecto de automatización que permite controlar una casa inteligente con riego
 - Conexión WiFi  
 
 ## 👥 Integrantes
-- Tu nombre
-- Compañeros
+- Daniel Molina 
+- Dana Bautista
 
 ## 🔧 Objetivo
 Optimizar el uso de agua y energía mediante automatización.
